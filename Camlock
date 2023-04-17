@@ -1,0 +1,23 @@
+--[[
+
+░█████╗░░█████╗░███╗░░░███╗    ██╗░░░░░░█████╗░░█████╗░██╗░░██╗
+██╔══██╗██╔══██╗████╗░████║    ██║░░░░░██╔══██╗██╔══██╗██║░██╔╝
+██║░░╚═╝███████║██╔████╔██║    ██║░░░░░██║░░██║██║░░╚═╝█████═╝░
+██║░░██╗██╔══██║██║╚██╔╝██║    ██║░░░░░██║░░██║██║░░██╗██╔═██╗░
+╚█████╔╝██║░░██║██║░╚═╝░██║    ███████╗╚█████╔╝╚█████╔╝██║░╚██╗
+░╚════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝    ╚══════╝░╚════╝░░╚════╝░╚═╝░░╚═╝
+
+
+Made by: Space#0234
+Discord Server: .gg/966295RjzW
+Website: https://triphub.ga
+Support: Mobile/Pc
+]]--
+
+
+getgenv().Prediction = 0.16
+getgenv().AimPart = "HumanoidRootPart"
+getgenv().Key = "q"
+getgenv().AutoPrediction = false
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/elxocasXD/Trip-Hub/main/Scripts/Cam%20Lock.lua'))()
