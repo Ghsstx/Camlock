@@ -8,9 +8,9 @@
 ░╚════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝    ╚══════╝░╚════╝░░╚════╝░╚═╝░░╚═╝
 
 
-Made by: Space#0234
-Discord Server: .gg/966295RjzW
-Website: https://triphub.ga
+Made by: TheNcore#5063
+Discord Server: .gg/WUsp43cc
+Website: Print('In Progress')
 Support: Mobile/Pc
 ]]--
 
@@ -20,4 +20,4 @@ getgenv().AimPart = "HumanoidRootPart"
 getgenv().Key = "q"
 getgenv().AutoPrediction = false
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/elxocasXD/Trip-Hub/main/Scripts/Cam%20Lock.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Ghsstx/Cam/main/Cam'))()
